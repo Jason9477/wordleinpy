@@ -6,6 +6,6 @@
 >cd wordleinpy
 > 
 >python wordle.py
-```console
+```bash
 pip install -r requirements.txt
 ```

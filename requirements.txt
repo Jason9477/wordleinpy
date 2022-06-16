@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+colorama==0.4.4
+pyenchant==3.2.2
+requests==2.25.1

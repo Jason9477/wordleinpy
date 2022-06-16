@@ -4,5 +4,8 @@
 >git clone https://github.com/Jason9477/wordleinpy
 >
 >cd wordleinpy
->
+> 
 >python wordle.py
+```console
+pip install -r requirements.txt
+```
